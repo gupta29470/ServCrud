@@ -12,13 +12,13 @@
 ![Adding Student](https://github.com/gupta29470/ServCrud/blob/master/results/addingStudent.PNG)
 <br/><br/>
 ## Student List after adding - Ragnar
-![Added Student](https://github.com/gupta29470/ServCrud/blob/master/results/addedStudents.PNG)
+![Added Student](https://github.com/gupta29470/ServCrud/blob/master/results/addedStudent.PNG)
 <br/><br/>
 ## Updating Student - T'challa
-![Updating Student](https://github.com/gupta29470/ServCrud/blob/master/results/updatingStudents.PNG)
+![Updating Student](https://github.com/gupta29470/ServCrud/blob/master/results/updatingStudent.PNG)
 <br/><br/>
 ## Updated Student List
-![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/updatedStudents.PNG)
+![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/updatedStudent.PNG)
 <br/><br/>
 ## Deleting Student - Wanda
 ![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/deletingwandavision.PNG)
