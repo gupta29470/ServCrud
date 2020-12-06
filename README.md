@@ -7,3 +7,25 @@
 <br/><br/>
 ## Student List
 ![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/listStudents.PNG)
+<br/><br/>
+## Adding new student - Ragnar
+![Adding Student](https://github.com/gupta29470/ServCrud/blob/master/results/addingStudent.PNG)
+<br/><br/>
+## Student List after adding - Ragnar
+![Added Student](https://github.com/gupta29470/ServCrud/blob/master/results/addedStudents.PNG)
+<br/><br/>
+## Updating Student - T'challa
+![Updating Student](https://github.com/gupta29470/ServCrud/blob/master/results/updatingStudents.PNG)
+<br/><br/>
+## Updated Student List
+![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/updatedStudents.PNG)
+<br/><br/>
+## Deleting Student - Wanda
+![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/deletingwandavision.PNG)
+<br/><br/>
+## Student List after deleting - Wanda
+![Student List](https://github.com/gupta29470/ServCrud/blob/master/results/deletedwandavision.PNG)
+<br/><br/>
+## Database
+![Database](https://github.com/gupta29470/ServCrud/blob/master/results/database.PNG)
+<br/><br/>
