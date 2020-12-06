@@ -3,6 +3,6 @@
 <br>
 <br>
 *If you found this project helpful or you learned something from the source code and want to thank me, please drop a star.*
-<br>
-<br>
+
+
 > A glimpse of **ServCrud** is shown in following screenshots.
